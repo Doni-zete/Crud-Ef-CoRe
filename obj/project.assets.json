@@ -5936,7 +5936,6 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Microsoft.EntityFrameworkCore >= 5.0.12",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.12",
       "Swashbuckle.AspNetCore >= 5.6.3"
@@ -5948,11 +5947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\Dotnet-Ef-Marvel.csproj",
+      "projectUniqueName": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\Dotnet-Ef-Marvel.csproj",
       "projectName": "Dotnet-Ef-Marvel",
-      "projectPath": "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\Dotnet-Ef-Marvel.csproj",
+      "projectPath": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\Dotnet-Ef-Marvel.csproj",
       "packagesPath": "C:\\Users\\Doni\\.nuget\\packages\\",
-      "outputPath": "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\obj\\",
+      "outputPath": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Doni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5962,6 +5961,7 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5980,10 +5980,6 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[5.0.12, )"
-          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

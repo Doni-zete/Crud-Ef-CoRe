@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wlj/EYCt7z2//tUbdrshID+IbIuyRQIAwosNwSuctGHZxQjodcQeXbXirahuhonHjEY3PJCZ7+qg1E6zjhAYuw==",
+  "dgSpecHash": "w98V3EoJd74o8PB/sMpe1ikxTgXXHk6clvXYnS0lHznHBZ+2B6Jty79EnOpvnFGl1ucnFNLZFgZRqSgefKqGOw==",
   "success": true,
-  "projectFilePath": "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\Dotnet-Ef-Marvel.csproj",
+  "projectFilePath": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\Dotnet-Ef-Marvel\\Dotnet-Ef-Marvel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Doni\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Doni\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
